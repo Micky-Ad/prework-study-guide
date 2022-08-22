@@ -7,7 +7,11 @@ header,
 footer {
     width: 100%;
     height: 120px;
+<<<<<<< HEAD
     background-color: #2874A6;
+=======
+    background-color: blue;
+>>>>>>> 26f1b6b0d2dfd9b1ecd8b82c205e788e78dea84a
     color: white;
 }
 
@@ -32,6 +36,7 @@ ul {
 p {
     text-align: center;
     font-size: 30px;
+<<<<<<< HEAD
   }
 
   .card {
@@ -39,4 +44,6 @@ p {
     margin: 40px auto;
     border: 5px solid #935116 ; 
     box-shadow: 5px 10px #888888;
+=======
+>>>>>>> 26f1b6b0d2dfd9b1ecd8b82c205e788e78dea84a
   }
